@@ -1,1 +1,1 @@
-'this is the project for week 2'
+puts 'new text in this git'
